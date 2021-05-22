@@ -7,8 +7,9 @@ This repository contains the following:
   - Jupyter Notebook containing the analysis of the data set
 - project_data
   -  AKC_Breed_Info.csv
-  - 'MostPopularDogBreeds_ DogBreedPopularity2018.html'
   - best_in_show.csv
   - dog_intelligence.csv
-  - states.txt
+  - 'MostPopularDogBreeds_ DogBreedPopularity2018.html'
+  - statelatlong.csv
+  - states.csv
   - top_dog_breeds_by_state.csv
